@@ -19,6 +19,11 @@ export default function Home() {
               Suwatte
             </button>
           </Link>
+          <Link href="/aidoku">
+            <button className="border-solid border-2 text-lg border-white p-2 rounded-md cursor-pointer hover:bg-white hover:text-black duration-200 mx-2">
+              Aidoku
+            </button>
+          </Link>
         </div>
       </div>
       <div className="inline-flex flex-col justify-center items-center mt-10">

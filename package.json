@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/node": "^16.11.11",
+    "bplist-creator": "^0.1.1",
     "fflate": "^0.8.2",
     "next": "latest",
     "protobufjs": "^7.4.0",
